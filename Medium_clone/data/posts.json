@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Coding My First App: A Beginner's Guide to JavaScript",
+      "excerpt": "Here’s how I built my first interactive web app using plain JavaScript. If you're just starting out, this one’s for you!",
+      "link": "posts/coding-first-app.html",
+      "image": "images/post1.jpg"
+    },
+    {
+      "title": "From Confused to Confident: My Journey Learning to Code",
+      "excerpt": "I used to stare at the screen for hours, not understanding anything. Today, I write code that helps real people.",
+      "link": "posts/journey-learning-to-code.html",
+      "image": "images/coding.jpg"
+    },
+    {
+      "title": "5 Productivity Hacks That Helped Me Finish Projects Faster",
+      "excerpt": "We all get stuck. These 5 habits helped me stay focused and actually complete my personal coding projects.",
+      "link": "posts/productivity-hacks.html",
+      "image": "images/productivity.jpg"
+    }
+  ]
+  
